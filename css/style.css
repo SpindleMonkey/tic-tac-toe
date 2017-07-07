@@ -1,0 +1,76 @@
+
+
+body {
+  font-family: 'Delius Unicase', cursive;
+  font-size: 36px;
+}
+
+header {
+  margin: 0 auto;
+  width: 600px;
+}
+
+section {
+  margin: 0 auto;
+  width: 600px;
+  height: 600px;
+}
+
+footer {
+  margin: 0 auto;
+  width: 600px;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+button {
+  height: 48px;
+  width: 200px;
+  font-family: inherit;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+  border-radius: 5px;
+  background: rgba(0, 136, 136, .5);
+}
+
+button:hover {
+  background: rgba(0, 136, 136, 1);
+}
+
+table {
+  width: 600px;
+  height: 600px;
+  border: none;
+  border-radius: 5px;
+  background: rgba(0, 136, 136, .2);
+}
+
+td {
+  width: 198px;
+  text-align: center;
+}
+
+.xOwnsThis {
+  color: #088;
+}
+
+.oOwnsThis {
+  color: #088;
+}
+
+.bottomSide {
+  border-bottom: 4px solid #088;
+}
+
+.rightSide {
+  border-right: 4px solid #088;
+}
+
